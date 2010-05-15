@@ -1,0 +1,10 @@
+Agile Techinical Practices
+--------------------------
+
+The three most important things for an agile development team are:
+feedback, feedback and feedback.  This feedback allows an agile team
+to repsond quickly to changes while maintaining a high level of
+quality.  In order to achieve this level of feedback, the team follows
+a disciplined set of agile practices.  This talk will focus on the
+engineering practices and demonstrate how they work together.
+ 
